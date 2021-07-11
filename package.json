@@ -1,0 +1,23 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "This challenge builds an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM.",
+  "main": "ina",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InaWise/18.-NoSQL-Challenge-Social-Network-API.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Ina",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/InaWise/18.-NoSQL-Challenge-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/InaWise/18.-NoSQL-Challenge-Social-Network-API#readme"
+}
